@@ -1,5 +1,4 @@
-# menu-test_1
-
-バグ：hidden box が表示されない
-CSSファイルのlabel の beforeにcontentを入力したら発生した
-デベロッパツールの表示にはバグなし
+# HOME
+ほめ
+URL: https://mspsd.github.io/HOME/
+URL: goo.gl/LZ4CXn
