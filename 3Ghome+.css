@@ -280,18 +280,18 @@ label:checked::after{
 }
 
 #footer{
-	box-shadow: 0 6px 15px 11px #AAA;/*影境界線*/
+    box-shadow: 0 6px 15px 11px #AAA;/*影境界線*/
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 15%;
     background-color: rgba(150, 0, 50, .4);
-    transition: .6s;
+    /*transition: .6s;*/
 }
-
+/*
 #footer:active{
     height: 50%;
-}
+}*/
 
 #source{
     bottom: 0;
