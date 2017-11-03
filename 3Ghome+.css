@@ -115,7 +115,7 @@ body{
 　　text-align: center;
 　　padding-bottom: 0.5em;
 　　height: 5vh;
-　　overflow: hidden;
+　　overflow: scroll;
 }
 
 a {
