@@ -406,7 +406,7 @@ a {
 }
 
 #menu-icon {
-	background-color: #000; /*アイコン部分背景色*/
+	background-color: #e0d4c7; /*アイコン部分背景色*/
 	opacity: 2;
     border-radius: 0 0 0 10px; /*左下角丸*/
     color: #00b2ff; /*アイコン（フォント）色*/
